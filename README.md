@@ -29,7 +29,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![screencapture-file-Users-kiran-Desktop-insure-landing-page-master-index-html-2021-09-28-11_32_18](https://user-images.githubusercontent.com/67024458/135091499-2827d20c-5bff-4772-b868-6eff3abca199.png)
 
+![screencapture-file-Users-kiran-Desktop-insure-landing-page-master-index-html-2021-09-28-11_32_55](https://user-images.githubusercontent.com/67024458/135091544-1533c3a8-5ac4-428a-b6ce-29595d728cfb.png)
 
 
 ### Links
